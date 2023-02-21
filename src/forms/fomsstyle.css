@@ -1,0 +1,37 @@
+h3 {
+  color: blanchedalmond;
+  font-style: oblique;
+}
+.form-control {
+  margin-top: 25px;
+  align-items: center;
+}
+.loginuncontrolled {
+  border-radius: 30px;
+  background-color: cadetblue;
+  width: 450px;
+  margin: 20px;
+  padding: 20px;
+}
+.btn {
+  font-size: 15px;
+  font-weight: bold;
+}
+.logincontrolled {
+  border-radius: 30px;
+  background-color: cadetblue;
+  width: 450px;
+  margin-top: 100px;
+  padding: 20px;
+  margin-left: 200px;
+}
+.logsuc {
+  color: darkgreen;
+  border-style: double;
+  margin-top: 20px;
+}
+.logfai {
+  color: red;
+  border-style: double;
+  margin-top: 20px;
+}

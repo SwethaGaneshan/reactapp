@@ -1,0 +1,11 @@
+.navbar {
+  margin-left: -200px;
+  margin-right: 10px;
+}
+.ul > nav-item {
+  margin-left: 10px;
+  margin-right: 100px;
+}
+.nav-item-end {
+  margin-right: 720px;
+}
